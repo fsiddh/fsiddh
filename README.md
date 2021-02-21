@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="KushalVijay">
-</p>
-
 <hi align="center">Hi there, I am Falansh Siddh 👋</h1>
 
 - 💬 Ask me about <strong>Python, C++ and Data Structures & Algorithms </strong>
 - 🌱 I’m currently learning <strong>MERN STack</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">Falansh Siddh</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="KushalVijay">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
