@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="KushalVijay">
 </p>
 
