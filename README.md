@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about <strong>Python, C++ and Data Structures & Algorithms </strong>
 - 🌱 I’m currently learning <strong>MERN Stack</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">LinkedIn</a> &nbsp <a href="falansh.rs@gmail.com" target="_blank">Email/a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">LinkedIn</a> &nbsp; <a href="falansh.rs@gmail.com" target="_blank">Email/a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="KushalVijay">
