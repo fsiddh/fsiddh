@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <strong>MERN STack</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">Falansh Siddh</a>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="KushalVijay">
 </p>
 
