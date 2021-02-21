@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <hi align="center">Hi there, I am Falansh Siddh 👋</h1>
 
 - 💬 Ask me about <strong>Python, C++ and Data Structures & Algorithms </strong>
-- 🌱 I’m currently learning <strong>MERN STack</strong>
+- 🌱 I’m currently learning <strong>MERN Stack</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">Falansh Siddh</a>
 
 <p>
