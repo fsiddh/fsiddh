@@ -23,10 +23,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="fsiddh">
 </p>  
 
-<div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsiddh&" alt="fsiddh />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fsiddh&show_icons=true&locale=en&layout=compact" alt="fsiddh" /></p>
-</div>
+
 
 <p align ="center">
   <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30"      width="30"></a>
