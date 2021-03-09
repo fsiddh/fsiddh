@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">LinkedIn</a> | <a href="falansh.rs@gmail.com" target="_blank">Email</a>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="KushalVijay">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="fsiddh">
+</p>  
+<a href="Soon" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
+
+<p align = "right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsiddh&" alt="Anushree-Patil" /></p>
 
 <p align ="center">
   <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="Soon" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsiddh&" alt="Anushree-Patil" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsiddh&show_icons=true&locale=en&layout=compact" alt="Anushree-Patil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsiddh&show_icons=true&locale=en&layout=compact" alt="fsiddh" /></p>
