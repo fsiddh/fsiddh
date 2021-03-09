@@ -28,11 +28,7 @@ Here are some ideas to get you started:
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=fsiddh&show_icons=true&locale=en&layout=compact" alt="fsiddh" /></p>
 
 
-<p align ="center">
-  <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30"      width="30"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="Soon" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
-</p>
+
 
 
 
